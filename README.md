@@ -2,7 +2,7 @@
 Manages PPPoE Account
 -Add, Edit, Delete PPPoE Account in luci.
 
-How to install?
+How to install?<br/>
 run opkg update
 copy the link and paste in your teminal (select which architecture for your device) 
 
