@@ -7,7 +7,7 @@ run opkg update<br/>
 copy the command and paste in your teminal (select which platform fits for your device) <br/>
 <br/>
 for mips platform:<br/>
-wget -O /tmp/pppoeuser.ipk https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/blob/main/pppoeuser_1.0.0-1_mips_24kc.ipk && opkg install /tmp/pppoeuser.ipk<br/>
+```wget -O /tmp/pppoeuser.ipk https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/blob/main/pppoeuser_1.0.0-1_mips_24kc.ipk && opkg install /tmp/pppoeuser.ipk```<br/>
 <br/>
 for ramips platform:<br/>
 wget -O /tmp/pppoe-server.ipk https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/blob/main/pppoeuser_1.0.0-1_mipsel_24kc.ipk && opkg install /tmp/pppoeuser.ipk<br/>
