@@ -4,7 +4,7 @@ Manages PPPoE Account
 
 How to install?<br/>
 run opkg update<br/>
-copy the link and paste in your teminal (select which architecture for your device) <br/>
+copy the command and paste in your teminal (select which architecture for your device) <br/>
 <br/>
 for mips architecture devices:<br/>
 wget -O /tmp/pppoeuser.ipk https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/blob/main/pppoeuser_1.0.0-1_mips_24kc.ipk && opkg install /tmp/pppoeuser.ipk<br/>
