@@ -27,3 +27,7 @@ reboot<br/>
 Note:<br/>
 if installation is success you will see PPPoE Accounts menu under the Services after reboot.<br/>
 ![alt text](https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/blob/main/sample.png?raw=true)
+
+
+ #[Version 2.0]([https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/releases/download/pppoe-user/pppoeuser_v2.0.ipk](https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/releases/tag/pppoeuser_v2)https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/releases/tag/pppoeuser_v2).
+![Screenshot 2024-02-10 215450](https://github.com/akosiramnad/OpenWrt-PPPoE-Server-Account-Manager/assets/67589626/f7847fc0-06e2-41c6-86ee-065a453c5521)
